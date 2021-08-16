@@ -7,6 +7,6 @@ target/
 .vscode/
 
 ### frontend angular-app
-src/main/resources/frontend/angular-app/node_modules
-src/main/resources/frontend/angular-app/node
-src/main/resources/frontend/angular-app/dist
+/src/main/resources/frontend/angular-app/node_modules
+/src/main/resources/frontend/angular-app/node
+/src/main/resources/frontend/angular-app/dist
